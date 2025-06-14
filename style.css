@@ -1,0 +1,34 @@
+* {
+  font-family: "Liberation Sans", Liberation, sans-serif;
+}
+
+.recipes li + li {
+  margin-top: 5px;
+}
+
+.all-recipes-image {
+  width: 375px;
+  height: auto;
+}
+
+h1 {
+  font-size: 1.75em;
+  /* default font size for h1 is 2em (32px) */
+}
+
+h2 {
+  font-size: 1.35em;
+  /* default font size for h2 is 1.5em (24 px) */
+}
+
+ul {
+  padding-left: 30px;
+}
+
+ol {
+  padding-left: 35px;
+}
+
+.recipes {
+  padding-left: 22px;
+}
